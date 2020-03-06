@@ -16,6 +16,8 @@ The notebook takes a time series approach to observe yearly and monthly trends t
 
 (https://github.com/rashidbaset/Module1_Project1/blob/master/charts/chart1.png)
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 
 chart1a.png
 
