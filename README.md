@@ -14,39 +14,12 @@ The notebook takes a time series approach to observe yearly and monthly trends t
 
 6. Chart each seasonal gross profit trend for past decade
 
-(https://github.com/rashidbaset/Module1_Project1/blob/master/charts/chart1.png)
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-
-
-chart1a.png
-
-chart1b
-
-chart1c
-
-chart1d
-
 7. Gross profit by Winter, Spring, Summer, and Fall for past decade
 
 8. Starting 1 year genre analysis between 2017 and 2018
 
 9. Monthly Gross Profit trend between 2017 and 2018
 
-chart2a
-
-chart2b
-
 10. Monthly gross profit trend as a mean for past 10 years for comparison 
 
-chart2c
-
-chart2d
-
 11. Genre/Theme analysis
-
-Chart3a
-
-Chart3b
-
-Chart3c
