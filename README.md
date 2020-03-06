@@ -14,7 +14,8 @@ The notebook takes a time series approach to observe yearly and monthly trends t
 
 6. Chart each seasonal gross profit trend for past decade
 
-chart1.png
+(https://github.com/rashidbaset/Module1_Project1/blob/master/charts/chart1.png)
+
 
 chart1a.png
 
