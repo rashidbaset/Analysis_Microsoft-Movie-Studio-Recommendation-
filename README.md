@@ -1,6 +1,6 @@
 This notebook looks at 2 datasets of movie budgets and title details to provide reccomendations for hypothetical movie executives from Microsoft interested in opening a movie studio and compete in the movie industry. 
 The following sections outline the process taken that lead to a concluding analysis and recommendation. 
-The notebook takes a time series approach to observe yearly and monthly trends to guage popular release times and genres and uses gross profit as an indicator for consumer interest throughout the analysis. 
+The notebook takes a time series approach to observe yearly and monthly trends to guage popular release times and genres and uses gross profit as an indicator for consumer interest. 
 
 1. Changing data type of monetary values to compute for total profit 
 
