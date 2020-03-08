@@ -1,8 +1,8 @@
 
 
-Scenario -- Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
+Scenario -- Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. The aim of the project is to help them better understand the movie industry.
 
-This project explores what type of films are currently doing the best at the box office. It translates those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
+This notebook explores what type of films are currently doing the best at the box office. The slide deck translates the findings from the jupyter notebook into actionable insights that the CEO can use when deciding what type of films they should be creating.
 
 The following sections outline the data analysis used for the concluding analysis and final recommendation. The notebook takes a time series approach to observe yearly and monthly trends to guage popular release times and genres and uses gross profit as an indicator for consumer interest. 
 
