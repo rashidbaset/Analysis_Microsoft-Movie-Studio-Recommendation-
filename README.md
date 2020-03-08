@@ -4,7 +4,7 @@ Scenario -- Microsoft sees all the big companies creating original video content
 
 This notebook explores what type of films are currently doing the best at the box office. The slide deck translates the findings from the jupyter notebook into actionable insights that the CEO can use when deciding what type of films they should be creating.
 
-The following sections outline the data analysis used for the concluding analysis and final recommendation. The notebook takes a time series approach to observe yearly and monthly trends to guage popular release times and genres and uses gross profit as an indicator for consumer interest. 
+The following sections outline the data analysis used for the concluding analysis and final recommendation. The data analysis performed in the notebook takes a time series approach to observe yearly and monthly trends to guage popular release times and genres and uses gross profit as an indicator for consumer interest. 
 
 1. Changing data type of monetary values to compute for total profit 
 
